@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fecaf13b-2008-4295-adeb-8d8cc04ed98b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29eCdUlmX2NkXqrcI8Qnw386BxQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/voma/jslessons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "/home/voma/www/spactdp/backend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/migrations" />
+      <recent name="$PROJECT_DIR$/src/modules/integrations/firebase/dynamic-links" />
+      <recent name="$PROJECT_DIR$/src/modules/integrations/firebase/dynamic-links/dto" />
+      <recent name="$PROJECT_DIR$/src/modules/contest-instance" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fecaf13b-2008-4295-adeb-8d8cc04ed98b" name="Changes" comment="" />
+      <created>1653464251545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653464251545</updated>
+      <workItem from="1653464253553" duration="1700000" />
+      <workItem from="1653583473164" duration="1515000" />
+      <workItem from="1653837320153" duration="5902000" />
+      <workItem from="1653951126124" duration="24597000" />
+      <workItem from="1654519047483" duration="57158000" />
+      <workItem from="1655114777632" duration="19941000" />
+      <workItem from="1655226542788" duration="11330000" />
+      <workItem from="1655323577574" duration="12764000" />
+      <workItem from="1655455100468" duration="40481000" />
+      <workItem from="1655894146637" duration="36951000" />
+      <workItem from="1656152688112" duration="29237000" />
+      <workItem from="1656515481678" duration="2049000" />
+      <workItem from="1656683613805" duration="1823000" />
+      <workItem from="1660641021321" duration="13587000" />
+      <workItem from="1661851970754" duration="7771000" />
+      <workItem from="1662448554106" duration="14075000" />
+      <workItem from="1662963273803" duration="8482000" />
+      <workItem from="1663317465368" duration="2051000" />
+      <workItem from="1663600001596" duration="1247000" />
+      <workItem from="1663700912475" duration="8475000" />
+      <workItem from="1663858293237" duration="329000" />
+      <workItem from="1663858637161" duration="2648000" />
+      <workItem from="1664267351872" duration="622000" />
+      <workItem from="1664430680544" duration="6745000" />
+      <workItem from="1664959738779" duration="5686000" />
+      <workItem from="1665582710579" duration="9569000" />
+      <workItem from="1666183997652" duration="3242000" />
+      <workItem from="1666858526874" duration="2260000" />
+      <workItem from="1667332174773" duration="23207000" />
+      <workItem from="1667812331712" duration="1759000" />
+      <workItem from="1667915280263" duration="10268000" />
+      <workItem from="1668417649891" duration="1552000" />
+      <workItem from="1668419682560" duration="2223000" />
+      <workItem from="1668435066313" duration="7992000" />
+      <workItem from="1668601629198" duration="16940000" />
+      <workItem from="1669123283567" duration="15665000" />
+      <workItem from="1669805613370" duration="2908000" />
+      <workItem from="1669823557315" duration="1519000" />
+      <workItem from="1669892419367" duration="7538000" />
+      <workItem from="1670234221816" duration="1286000" />
+      <workItem from="1670586150258" duration="11561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

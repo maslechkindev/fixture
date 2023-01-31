@@ -1,1 +1,0 @@
-{"version":3,"file":"initResponse.dto.js","sourceRoot":"","sources":["../../../../../src/modules/purchase/dto/initResponse.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAE9C,MAAa,eAAe;CAO3B;AADC;IALC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE;YACP,UAAU,EAAE,GAAG;SAChB;KACF,CAAC;;mDACiB;AANrB,0CAOC;AAED,MAAa,2BAA2B;CAGvC;AADC;IADC,IAAA,qBAAW,GAAE;8BACR,eAAe;yDAAC;AAFxB,kEAGC"}
